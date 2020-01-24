@@ -1,0 +1,18 @@
+D:\SDKDemo\CH-HCNetSDKV6.0.2.10_build20190117_Win64\Demo示例\3- C# 开发示例\2-实时预览示例代码二\NVRCsharpDemo\bin\NVRCsharpDemo.exe
+D:\SDKDemo\CH-HCNetSDKV6.0.2.10_build20190117_Win64\Demo示例\3- C# 开发示例\2-实时预览示例代码二\NVRCsharpDemo\bin\NVRCsharpDemo.pdb
+D:\SDKDemo\CH-HCNetSDKV6.0.2.10_build20190117_Win64\Demo示例\3- C# 开发示例\2-实时预览示例代码二\NVRCsharpDemo\obj\x64\Debug\NVRCsharpDemo.IPChannelConfig.resources
+D:\SDKDemo\CH-HCNetSDKV6.0.2.10_build20190117_Win64\Demo示例\3- C# 开发示例\2-实时预览示例代码二\NVRCsharpDemo\obj\x64\Debug\NVRCsharpDemo.MainWindow.resources
+D:\SDKDemo\CH-HCNetSDKV6.0.2.10_build20190117_Win64\Demo示例\3- C# 开发示例\2-实时预览示例代码二\NVRCsharpDemo\obj\x64\Debug\NVRCsharpDemo.Properties.Resources.resources
+D:\SDKDemo\CH-HCNetSDKV6.0.2.10_build20190117_Win64\Demo示例\3- C# 开发示例\2-实时预览示例代码二\NVRCsharpDemo\obj\x64\Debug\NVRCsharpDemo.csproj.GenerateResource.Cache
+D:\SDKDemo\CH-HCNetSDKV6.0.2.10_build20190117_Win64\Demo示例\3- C# 开发示例\2-实时预览示例代码二\NVRCsharpDemo\obj\x64\Debug\NVRCsharpDemo.exe
+D:\SDKDemo\CH-HCNetSDKV6.0.2.10_build20190117_Win64\Demo示例\3- C# 开发示例\2-实时预览示例代码二\NVRCsharpDemo\obj\x64\Debug\NVRCsharpDemo.pdb
+C:\Users\dafmartinez\Documents\sdk_hikvision\EN-HCNetSDKV6.1.4.6_build20191220_Win64\C# demo\2-Preview-NVRCsharpDemo\2-Preview-NVRCsharpDemo\NVRCsharpDemo\bin\NVRCsharpDemo.exe
+C:\Users\dafmartinez\Documents\sdk_hikvision\EN-HCNetSDKV6.1.4.6_build20191220_Win64\C# demo\2-Preview-NVRCsharpDemo\2-Preview-NVRCsharpDemo\NVRCsharpDemo\bin\NVRCsharpDemo.pdb
+C:\Users\dafmartinez\Documents\sdk_hikvision\EN-HCNetSDKV6.1.4.6_build20191220_Win64\C# demo\2-Preview-NVRCsharpDemo\2-Preview-NVRCsharpDemo\NVRCsharpDemo\obj\x64\Debug\NVRCsharpDemo.csprojAssemblyReference.cache
+C:\Users\dafmartinez\Documents\sdk_hikvision\EN-HCNetSDKV6.1.4.6_build20191220_Win64\C# demo\2-Preview-NVRCsharpDemo\2-Preview-NVRCsharpDemo\NVRCsharpDemo\obj\x64\Debug\NVRCsharpDemo.IPChannelConfig.resources
+C:\Users\dafmartinez\Documents\sdk_hikvision\EN-HCNetSDKV6.1.4.6_build20191220_Win64\C# demo\2-Preview-NVRCsharpDemo\2-Preview-NVRCsharpDemo\NVRCsharpDemo\obj\x64\Debug\NVRCsharpDemo.MainWindow.resources
+C:\Users\dafmartinez\Documents\sdk_hikvision\EN-HCNetSDKV6.1.4.6_build20191220_Win64\C# demo\2-Preview-NVRCsharpDemo\2-Preview-NVRCsharpDemo\NVRCsharpDemo\obj\x64\Debug\NVRCsharpDemo.Properties.Resources.resources
+C:\Users\dafmartinez\Documents\sdk_hikvision\EN-HCNetSDKV6.1.4.6_build20191220_Win64\C# demo\2-Preview-NVRCsharpDemo\2-Preview-NVRCsharpDemo\NVRCsharpDemo\obj\x64\Debug\NVRCsharpDemo.csproj.GenerateResource.cache
+C:\Users\dafmartinez\Documents\sdk_hikvision\EN-HCNetSDKV6.1.4.6_build20191220_Win64\C# demo\2-Preview-NVRCsharpDemo\2-Preview-NVRCsharpDemo\NVRCsharpDemo\obj\x64\Debug\NVRCsharpDemo.exe
+C:\Users\dafmartinez\Documents\sdk_hikvision\EN-HCNetSDKV6.1.4.6_build20191220_Win64\C# demo\2-Preview-NVRCsharpDemo\2-Preview-NVRCsharpDemo\NVRCsharpDemo\obj\x64\Debug\NVRCsharpDemo.pdb
+C:\Users\dafmartinez\Documents\sdk_hikvision\EN-HCNetSDKV6.1.4.6_build20191220_Win64\C# demo\2-Preview-NVRCsharpDemo\2-Preview-NVRCsharpDemo\NVRCsharpDemo\obj\x64\Debug\NVRCsharpDemo.test1.resources

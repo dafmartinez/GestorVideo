@@ -1,0 +1,7 @@
+D:\SDKDemo\CH-HCNetSDKV6.0.2.10_build20190117_Win64\Demo示例\3- C# 开发示例\2-实时预览示例代码二\NVRCsharpDemo\bin\NVRCsharpDemo.exe
+D:\SDKDemo\CH-HCNetSDKV6.0.2.10_build20190117_Win64\Demo示例\3- C# 开发示例\2-实时预览示例代码二\NVRCsharpDemo\obj\x64\Release\NVRCsharpDemo.csprojResolveAssemblyReference.cache
+D:\SDKDemo\CH-HCNetSDKV6.0.2.10_build20190117_Win64\Demo示例\3- C# 开发示例\2-实时预览示例代码二\NVRCsharpDemo\obj\x64\Release\NVRCsharpDemo.IPChannelConfig.resources
+D:\SDKDemo\CH-HCNetSDKV6.0.2.10_build20190117_Win64\Demo示例\3- C# 开发示例\2-实时预览示例代码二\NVRCsharpDemo\obj\x64\Release\NVRCsharpDemo.MainWindow.resources
+D:\SDKDemo\CH-HCNetSDKV6.0.2.10_build20190117_Win64\Demo示例\3- C# 开发示例\2-实时预览示例代码二\NVRCsharpDemo\obj\x64\Release\NVRCsharpDemo.Properties.Resources.resources
+D:\SDKDemo\CH-HCNetSDKV6.0.2.10_build20190117_Win64\Demo示例\3- C# 开发示例\2-实时预览示例代码二\NVRCsharpDemo\obj\x64\Release\NVRCsharpDemo.csproj.GenerateResource.Cache
+D:\SDKDemo\CH-HCNetSDKV6.0.2.10_build20190117_Win64\Demo示例\3- C# 开发示例\2-实时预览示例代码二\NVRCsharpDemo\obj\x64\Release\NVRCsharpDemo.exe
